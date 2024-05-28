@@ -12,6 +12,13 @@ public:
     //}
 };
 
+class joko : public seseorang {
+
+};
+
+
+
+
 int main()
 {
     std::cout << "Hello World!\n";
