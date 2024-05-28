@@ -16,6 +16,7 @@ public:
 };
 
 class pekerja : public orang {
+public :
 
 
 };
